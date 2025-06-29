@@ -1,7 +1,12 @@
 ---
-title: Markdown page example
+title: Litechain Markdown Example
 ---
 
-# Markdown page example
+# Litechain Markdown Example
 
-You don't need React to write simple standalone pages.
+This is a sample standalone Markdown page for your Litechain documentation site.
+
+- Use this page to add guides, FAQs, or any custom content.
+- You can write in Markdown or MDX (Markdown + React components).
+
+Explore the rest of the docs for more!
