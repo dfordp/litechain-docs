@@ -86,13 +86,6 @@ const config: Config = {
             { label: 'X', href: 'https://x.com/litechain' },
           ],
         },
-        {
-          title: 'More',
-          items: [
-            { label: 'Blog', to: '/blog' },
-            { label: 'GitHub', href: 'https://github.com/litechain/litechain' },
-          ],
-        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Litechain. Built with Docusaurus.`,
     },
