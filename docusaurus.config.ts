@@ -78,16 +78,8 @@ const config: Config = {
             { label: 'Providers', to: '/docs/providers' },
           ],
         },
-        {
-          title: 'Community',
-          items: [
-            { label: 'GitHub Discussions', href: 'https://github.com/litechain/litechain/discussions' },
-            { label: 'Discord', href: 'https://discord.gg/your-discord' },
-            { label: 'X', href: 'https://x.com/litechain' },
-          ],
-        },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Litechain. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Litechain`,
     },
     prism: {
       theme: prismThemes.github,
